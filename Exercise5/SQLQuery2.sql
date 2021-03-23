@@ -1,0 +1,2 @@
+ALTER TABLE KHACHHANG 
+add check (DT < 9);
