@@ -1,0 +1,11 @@
+﻿INSERT INTO NGUOIXEM VALUES ('NX01', N'Nguyễn Văn Hùng', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX02', N'Nguyễn Đức Cường', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX03', N'Vũ Thanh Long', '0387734869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX04', N'Nguyễn Văn Tùy', '0386634879', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX05', N'Nguyễn Viết Hiền', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX06', N'Nguyễn Cao Sơn', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX07', N'Nguyễn Phương Thảo', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX08', N'Nguyễn Thành Đạt', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX09', N'Cát Huy Thành', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX10', N'Diêp Vấn Thiên', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL),
+('NX11', N'Vũ Vương Hầu', '0386634869', 'hungnv@funix.edu.vn', NULL, NULL, NULL);

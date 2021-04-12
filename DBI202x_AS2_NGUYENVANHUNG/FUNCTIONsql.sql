@@ -1,0 +1,16 @@
+﻿--Hàm FUNCTION_BAIBAO có kiểu dữ liệu trả về NVARCHAR, nhập vào 1 mã bài báo, tìm
+--xem tên phóng viên đã viết bài báo .
+--Kết quả trả về cho hàm là tên phóng viên đã tìm được.
+IF OBJECT_ID (N'dbo.fc_TIMTENPV', N'FN') IS NOT NULL
+	DROP FUNCTION fc_TIMTENPV;
+GO
+CREATE FUNCTION dbo.fc_TIMTENPV(@MABB NVARCHAR(5))
+RETURNS NVARCHAR(30)
+AS
+BEGIN
+	DECLARE @TENPV NVARCHAR(30);
+	SELECT @TENPV = PHONGVIEN.TENPV
+	FROM BAIBAO INNER JOIN PHONGVIEN ON BAIBAO.MAPV = PHONGVIEN.MAPV
+	WHERE MABB = @MABB;
+	RETURN @TENPV
+END

@@ -1,0 +1,3 @@
+﻿--sắp xếp tên phong viên theo thứ tự ABC
+SELECT PHONGVIEN.MAPV, PHONGVIEN.TENPV FROM PHONGVIEN
+ORDER BY TENPV;
