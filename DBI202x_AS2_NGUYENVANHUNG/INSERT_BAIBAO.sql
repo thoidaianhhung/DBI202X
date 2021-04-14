@@ -34,7 +34,7 @@ vaccine cải tiến hay những mũi tiêm bổ sung bên cạnh phiên bản g
 gia vaccine và quan chức y tế chính quyền Tổng thống Joe Biden. Việc thiết lập cơ
 sở hạ tầng nhằm tăng cường sản xuất vaccine có thể mất vài tháng, thậm chí vài năm
 .', GETDATE()),
-('BB06', 'PV06', 'BT04', 'Covid-19', 'Covid-19', N'Thế giới',
+('BB06', 'PV06', 'BT04', N'Covid-19 ở Mỹ', 'Covid-19', N'Thế giới',
 N'Mỹ coi vaccine là vũ khí hữu hiệu nhất chống các biến chủng Covid-19',
 N'Cuộc đua toàn cầu nhằm sản xuất đủ vaccine Covid-19 cho 7 tỷ người sắp trở nên khó khăn. Tìm 
 ra vaccine có thể ngăn ngừa những chủng virus mới hoặc có độc lực cao hơn chỉ
@@ -43,7 +43,7 @@ vaccine cải tiến hay những mũi tiêm bổ sung bên cạnh phiên bản g
 gia vaccine và quan chức y tế chính quyền Tổng thống Joe Biden. Việc thiết lập cơ
 sở hạ tầng nhằm tăng cường sản xuất vaccine có thể mất vài tháng, thậm chí vài năm
 .', GETDATE()),
-('BB07', 'PV07', 'BT07', 'Covid-19', 'Covid-19', N'Thế Giới',
+('BB07', 'PV07', 'BT07', N'Covid-19 vaccine', 'Covid-19', N'Thế Giới',
 N'Mỹ coi vaccine là vũ khí hữu hiệu nhất chống các biến chủng Covid-19.', N'Cuộc đua toàn cầu
 nhằm sản xuất đủ vaccine Covid-19 cho 7 tỷ người sắp trở nên khó khăn. Tìm 
 ra vaccine có thể ngăn ngừa những chủng virus mới hoặc có độc lực cao hơn chỉ
@@ -52,7 +52,7 @@ vaccine cải tiến hay những mũi tiêm bổ sung bên cạnh phiên bản g
 gia vaccine và quan chức y tế chính quyền Tổng thống Joe Biden. Việc thiết lập cơ
 sở hạ tầng nhằm tăng cường sản xuất vaccine có thể mất vài tháng, thậm chí vài năm
 .', GETDATE()),
-('BB08', 'PV08', 'BT08', 'Covid-19', 'Covid-19', N'Thế Giới',
+('BB08', 'PV08', 'BT08', N'Covid-19 biến chủng', 'Covid-19', N'Thế Giới',
 N'Mỹ coi vaccine là vũ khí hữu hiệu nhất chống các biến chủng Covid-19.', N'Cuộc đua toàn cầu
 nhằm sản xuất đủ vaccine Covid-19 cho 7 tỷ người sắp trở nên khó khăn. Tìm 
 ra vaccine có thể ngăn ngừa những chủng virus mới hoặc có độc lực cao hơn chỉ
@@ -61,7 +61,7 @@ vaccine cải tiến hay những mũi tiêm bổ sung bên cạnh phiên bản g
 gia vaccine và quan chức y tế chính quyền Tổng thống Joe Biden. Việc thiết lập cơ
 sở hạ tầng nhằm tăng cường sản xuất vaccine có thể mất vài tháng, thậm chí vài năm
 .', GETDATE()),
-('BB09', 'PV09', 'BT09', 'Covid-19', 'Covid-19', N'Thế Giới',
+('BB09', 'PV09', 'BT09', N'Covid-19 lây lan', 'Covid-19', N'Thế Giới',
 N'Mỹ coi vaccine là vũ khí hữu hiệu nhất chống các biến chủng Covid-19.', N'Cuộc đua toàn cầu
 nhằm sản xuất đủ vaccine Covid-19 cho 7 tỷ người sắp trở nên khó khăn. Tìm 
 ra vaccine có thể ngăn ngừa những chủng virus mới hoặc có độc lực cao hơn chỉ
@@ -70,7 +70,7 @@ vaccine cải tiến hay những mũi tiêm bổ sung bên cạnh phiên bản g
 gia vaccine và quan chức y tế chính quyền Tổng thống Joe Biden. Việc thiết lập cơ
 sở hạ tầng nhằm tăng cường sản xuất vaccine có thể mất vài tháng, thậm chí vài năm
 .', GETDATE()),
-('BB10', 'PV10', 'BT10', 'Covid-19', 'Covid-19', N'Thế Giới',
+('BB10', 'PV10', 'BT10', N'Cuộc chiến Covid-19', 'Covid-19', N'Thế Giới',
 N'Mỹ coi vaccine là vũ khí hữu hiệu nhất chống các biến chủng Covid-19.', N'Cuộc đua toàn cầu
 nhằm sản xuất đủ vaccine Covid-19 cho 7 tỷ người sắp trở nên khó khăn. Tìm 
 ra vaccine có thể ngăn ngừa những chủng virus mới hoặc có độc lực cao hơn chỉ

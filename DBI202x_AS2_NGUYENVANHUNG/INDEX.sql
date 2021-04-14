@@ -1,0 +1,1 @@
+CREATE INDEX indexTenBai ON BAIBAO(TENBB);
