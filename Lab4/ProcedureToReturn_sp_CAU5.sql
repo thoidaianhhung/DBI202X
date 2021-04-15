@@ -1,0 +1,4 @@
+﻿DECLARE @MAVTMAX NVARCHAR(5), @TENVTMAX NVARCHAR(30);
+EXEC sp_CAU5 @MAVT = @MAVTMAX OUTPUT, @TENVT = @TENVTMAX OUTPUT;
+SELECT @MAVTMAX AS N'Mã vật tư bán được nhiều nhất';
+SELECT @TENVTMAX AS N'Tên vật tư bán được nhiều nhất';
